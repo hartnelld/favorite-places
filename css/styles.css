@@ -2,6 +2,16 @@ img {
   width: 200px;
 }
 
-h1, h2, h3, a, p {
+body {
   font-family: sans-serif;
+  background-color: #b4dcf9;
+  color: #856063;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+em {
+  color: green;
 }
